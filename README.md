@@ -81,7 +81,7 @@ These remain confidential until formal collaboration or research partnership.
 ## Contact  
 For professional inquiry or research collaboration:
 
-- Email: [Deine E-Mail-Adresse einfügen]
+- Email: Real.Jacksonjunge@gmail.com
 - GitHub: https://github.com/Jacksonjunge  
 
 Confidentiality agreements welcome.
