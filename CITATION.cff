@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata from this file."
+title: "Initial Public Notice – Model-Agnostic Prompt Architecture"
+authors:
+  - name: "Jacksonjunge"
+version: "1.0"
+date-released: 2026-01-01
+url: "https://github.com/Jacksonjunge/Initial-Public-Notice-Discovery-of-a-Model-Agnostic-Prompt-Architecture"
