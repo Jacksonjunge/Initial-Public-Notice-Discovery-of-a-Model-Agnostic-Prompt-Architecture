@@ -85,3 +85,8 @@ For professional inquiry or research collaboration:
 - GitHub: https://github.com/Jacksonjunge  
 
 Confidentiality agreements welcome.
+
+---
+
+## Citation
+Please see [CITATION.cff](./CITATION.cff) for the recommended citation metadata for this repository.
