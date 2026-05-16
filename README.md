@@ -78,11 +78,26 @@ These remain confidential until formal collaboration or research partnership.
 
 ---
 
-## Contact  
+## Examples
+
+See [`/examples/`](./examples/) for representative outputs demonstrating the architecture's stability across different model architectures. **Note:** No prompt structure is disclosed.
+
+---
+
+## Partnership & Licensing
+
+This discovery is available for:
+
+- **Exclusive licensing agreements** — Full implementation and documentation access
+- **Research collaboration** — Joint research under NDA with potential publication
+- **Integration partnerships** — Custom implementation for your platform
+
+### How to Proceed
+
 For professional inquiry or research collaboration:
 
-- Email: Real.Jacksonjunge@gmail.com
-- GitHub: https://github.com/Jacksonjunge  
+- **Email:** Real.Jacksonjunge@gmail.com
+- **GitHub:** https://github.com/Jacksonjunge  
 
 Confidentiality agreements welcome.
 
