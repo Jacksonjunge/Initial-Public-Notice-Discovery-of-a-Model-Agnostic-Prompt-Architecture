@@ -1,0 +1,18 @@
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.tmp/
+.temp/
+tmp/
+temp/
+
+# Markdown editor and OS files
+.DS_Store
+Thumbs.db
