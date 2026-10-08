@@ -58,6 +58,22 @@ Observed error rate: **< 1%**
 
 ---
 
+## Validation Record
+
+A detailed chronological record of the discovery, testing process, cross-model validation, current empirical status, and disclosure boundary is available in [`VALIDATION_HISTORY.md`](./VALIDATION_HISTORY.md).
+
+**Foundation:**
+
+- Analysis of 100,000+ AI-generated prompts, collected and evaluated over years of local model work
+- More than 4,500 directly associated validation examples, kept separate from a broader experiential corpus of approximately two million generated images and videos
+- An exported conversation history of approximately 8,500 pages documenting the development process
+- Hundreds of separate conversations across many different AI systems
+- The moment of structural recognition during CogVideoX 2B testing, where a structural reorganization of the prompt succeeded where conventional keyword optimization had plateaued
+
+The record also explains why the underlying architecture is not publicly disclosed and why further evaluation requires a controlled professional context. It does not claim independent replication, peer review, or institutional validation.
+
+---
+
 ## Scope of This Repository  
 - Public timestamp of the discovery  
 - Conceptual overview  
